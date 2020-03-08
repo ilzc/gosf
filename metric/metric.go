@@ -8,8 +8,8 @@ import (
 
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/push"
-	"gitlab.forceup.in/dev-go/gosf/logger"
-	"gitlab.forceup.in/dev-go/gosf/proc"
+	"github.com/ilzc/gosf/logger"
+	"github.com/ilzc/gosf/proc"
 )
 
 const (
